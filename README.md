@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @deluxanova
 - 👀 I’m interested in Machine Learning,Big Data and Software development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Python/C++ Projects 
+- 🌱 I’m currently working in the data engineering domain with tech like Apache Spark,Hadoop,Hive.
+- 💞️ I’m looking to collaborate on Software Development Projects 
 - 📫 How to reach me email-> deluxanova@gmail.com
-
-
